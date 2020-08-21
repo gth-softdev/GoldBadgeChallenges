@@ -1,0 +1,7 @@
+C:\Users\Gary\source\repos\GoldBadgeConsoleAppChallenges\ProgramUI_ChallThree\bin\Debug\ProgramUI_ChallThree.exe.config
+C:\Users\Gary\source\repos\GoldBadgeConsoleAppChallenges\ProgramUI_ChallThree\bin\Debug\ProgramUI_ChallThree.exe
+C:\Users\Gary\source\repos\GoldBadgeConsoleAppChallenges\ProgramUI_ChallThree\bin\Debug\ProgramUI_ChallThree.pdb
+C:\Users\Gary\source\repos\GoldBadgeConsoleAppChallenges\ProgramUI_ChallThree\obj\Debug\ProgramUI_ChallThree.csprojAssemblyReference.cache
+C:\Users\Gary\source\repos\GoldBadgeConsoleAppChallenges\ProgramUI_ChallThree\obj\Debug\ProgramUI_ChallThree.csproj.CoreCompileInputs.cache
+C:\Users\Gary\source\repos\GoldBadgeConsoleAppChallenges\ProgramUI_ChallThree\obj\Debug\ProgramUI_ChallThree.exe
+C:\Users\Gary\source\repos\GoldBadgeConsoleAppChallenges\ProgramUI_ChallThree\obj\Debug\ProgramUI_ChallThree.pdb

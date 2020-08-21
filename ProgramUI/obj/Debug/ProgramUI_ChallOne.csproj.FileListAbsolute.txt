@@ -1,0 +1,7 @@
+C:\Users\Gary\source\repos\GoldBadgeConsoleAppChallenges\ProgramUI\bin\Debug\ProgramUI.exe.config
+C:\Users\Gary\source\repos\GoldBadgeConsoleAppChallenges\ProgramUI\bin\Debug\ProgramUI.exe
+C:\Users\Gary\source\repos\GoldBadgeConsoleAppChallenges\ProgramUI\bin\Debug\ProgramUI.pdb
+C:\Users\Gary\source\repos\GoldBadgeConsoleAppChallenges\ProgramUI\obj\Debug\ProgramUI_ChallOne.csprojAssemblyReference.cache
+C:\Users\Gary\source\repos\GoldBadgeConsoleAppChallenges\ProgramUI\obj\Debug\ProgramUI_ChallOne.csproj.CoreCompileInputs.cache
+C:\Users\Gary\source\repos\GoldBadgeConsoleAppChallenges\ProgramUI\obj\Debug\ProgramUI.exe
+C:\Users\Gary\source\repos\GoldBadgeConsoleAppChallenges\ProgramUI\obj\Debug\ProgramUI.pdb
