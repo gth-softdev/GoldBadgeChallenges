@@ -89,26 +89,6 @@ namespace ProgramUI_ChallOne
                 var inputNum = int.Parse(inputTwo);
 
 
-            //var inputNum = int.Parse(Console.ReadLine());
-
-
-            //while (true)
-            //{
-            //    var testOne = Console.ReadLine();
-
-            //    var isNumeric = int.TryParse(testOne, out _);
-            //    if (!isNumeric)
-            //    {
-            //        Console.WriteLine("Please type in a number.");
-            //    }
-            //    if (isNumeric)
-            //    {
-            //        //var inputNum = int.Parse(testOne);
-            //        break;
-            //    }
-            //}
-
-
             foreach (ChallOne_MenuContent content in allMenuContent)
             {
                 while (true)
@@ -173,26 +153,7 @@ namespace ProgramUI_ChallOne
             _menuRepository.AddMenuItemSet(newContent);
         }
 
-        //private List<string> GetIngredients()
-        //{
-        //    int counter = 0;
-        //    while (true)
-
-        //    {
-        //        Console.WriteLine("Enter an ingredient:");
-        //        newC
-
-        //    }
-
-
-        //    newContent.MenuItemDesc = Console.ReadLine();
-        //    return;
-        //}
-        //private void UpdateMenuItems()
-        //{
-
-        //}
-
+       
         private void DeleteMenuItems()
         {
             Console.Clear();

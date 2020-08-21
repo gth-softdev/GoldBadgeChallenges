@@ -130,21 +130,6 @@ namespace ProgramUI_ChallThree
 
             }
 
-            //foreach (KeyValuePair<int, List<string>> content in allBadgeContent)
-            //{
-            //    foreach (string x in content.Value)
-            //    {
-            //        if (x == tempDoorName)
-            //        {
-            //            Console.Write("Door is already in the list. Please enter a different door.");
-            //            tempDoor = Console.ReadLine();
-            //        }
-            //        Console.WriteLine();
-
-
-            //    }
-
-
             _badgeRepository.AddBadge(newContent);
         }
         public void EditBadgeChoice()
@@ -242,11 +227,7 @@ namespace ProgramUI_ChallThree
                 default:
                     break;
             }
-
-
-
         }
-
 
         public void ListAllBadgesChoice()
         {
@@ -261,7 +242,6 @@ namespace ProgramUI_ChallThree
                     Console.Write(x + " ");
                 }
                 Console.WriteLine();
-
 
             }
             Console.WriteLine("\nPress <Enter> to continue");

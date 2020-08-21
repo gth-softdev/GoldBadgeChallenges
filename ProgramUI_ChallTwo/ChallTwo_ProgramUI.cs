@@ -387,12 +387,7 @@ namespace ProgramUI_ChallTwo
                 }
                 else
                 {
-                    count++;
-                }
-                if (count == allMenuContent.Count)
-                {
-                    Console.WriteLine("That menu item was not found. Press <Enter> to continue.");
-                    Console.ReadLine();
+                   
                 }
             }
         }
@@ -405,9 +400,7 @@ namespace ProgramUI_ChallTwo
             foreach (ChallTwo_ClaimContent content in allMenuContent)
             {
                 Console.WriteLine($"{content.ClaimIDNumber}\t{content.ClaimType}\t{content.ClaimDesc}\t$ {Math.Round(content.ClaimAmount, 2)}\t\t{content.ClaimAccidentDate.ToString("d")}\t{content.ClaimFiledDate.ToString("d")}\t{content.ClaimIsValid}\t");
-
             }
-
 
             Console.WriteLine("Press <Enter> to continue.");
             Console.ReadLine();
@@ -553,26 +546,5 @@ namespace ProgramUI_ChallTwo
             _claimRepository.AddClaim(seedClaimFour);
         }
     }
-    //public int ValidateYear(string year)
-    //{
-    //    //Console.Write("What year did this accident occur? Please enter 4 digits: ");
-    //    //year = Console.ReadLine();
-    //    var getValidYear = false;
-    //    while (!getValidYear)
-    //    {
-    //        getValidYear = int.TryParse(year, out _);
-    //        if (getValidYear && (int.Parse(year) <= DateTime.Now.Year && int.Parse(year) >= (DateTime.Now.Year - 5)))
-    //        {
-    //            break;
-    //        }
-    //        else
-    //        {
-    //            getValidYear = false;
-    //            Console.Write("Invalid entry. Please enter a 4 digit number for the year: ");
-    //            year = Console.ReadLine();
-    //        }
-    //    }
-    //    return int.Parse(year);
-    //}
 }
 
